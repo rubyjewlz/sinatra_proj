@@ -2,5 +2,5 @@ require 'sinatra'
 
 get '/' do 
     "Mandrill Funk"
-    erb :s
+    erb :sin_proj2
 end
