@@ -1,29 +1,66 @@
 body {
 	background-color: #cccccc;
-	color: yellow;
-	font-family: Arial;
+	font-family: 'Comfortaa';
 	text-decoration: none;
+	margin: 0px auto;
 		
 }
 div.header{
   display: inline-block;
   text-align: center;
   width: 100%;
-  margin: 5px auto;
+  margin: 0px auto;
 }
 a.header{
-	margin:0 40px;
+	margin-right: 40px;
 	text-transform: uppercase;
-	color: black;
+	color: yellow;
 	text-decoration: none;
 	font-weight: bold;
-	padding:5px;
+
+	
 }
 a.header:hover{
 	color:yellow;
 	border: solid yellow 2px;
-	margin: 0 38px;
+	border-radius: 5px;
+	margin-right: 38px;
+	padding: 5px;
+
 }
 a:visited {
     text-decoration: none;
-    color: black;
+    color: yellow;
+}
+h1 {
+	font-size: 50px;
+	margin: 0px;
+	padding: 5px;
+	color: yellow;
+}
+
+#head {
+	background-color: #000000;
+	height: 100px;
+	margin: 0px auto;
+	
+}
+
+iframe {
+	margin: 10px;
+}
+nav {
+	padding-left:10px;
+}
+
+#form {
+	padding-left: 10px;
+	background-color: #b2b2b2;
+	width: 500px;
+	height: 175px;
+	border-color:;
+	border: solid #666666 2px;
+	margin: 10px auto;
+	border-radius: 7px;
+
+}
