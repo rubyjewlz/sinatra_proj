@@ -3,7 +3,7 @@ body {
 	font-family: 'Comfortaa';
 	text-decoration: none;
 	margin: 0px auto;
-		}
+}
 
 h1 {
   text-align: center;
@@ -71,4 +71,26 @@ nav {
 
 .song {
   display: none;
+}
+
+#mandril {
+  float: left;
+}
+
+#mandril2 {
+  float: right;
+
+}
+
+#mandril3 {
+  float: right;
+
+}
+
+#mandril4 {
+  float: right;
+}
+
+#h1 {
+  text-align: center;
 }
