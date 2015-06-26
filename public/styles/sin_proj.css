@@ -3,10 +3,9 @@ body {
 	font-family: 'Comfortaa';
 	text-decoration: none;
 	margin: 0px auto;
-		
-}
-div.header{
-  display: inline-block;
+		}
+
+h1 {
   text-align: center;
   width: 100%;
   margin: 0px auto;
@@ -64,3 +63,12 @@ nav {
 	border-radius: 7px;
 
 }
+=======
+}
+
+=======
+.song {
+  display: none;
+}
+>>>>>>> e78f1ee... Updated files
+>>>>>>> d1826f99ab67cdf2fa12d71fd792bd7520d12a2b
