@@ -16,9 +16,13 @@ a.header{
 	color: yellow;
 	text-decoration: none;
 	font-weight: bold;
-
-	
 }
+
+
+p{
+  font size: 24px;
+ }
+
 a.header:hover{
 	color:yellow;
 	border: solid yellow 2px;
@@ -45,6 +49,7 @@ h1 {
 	
 }
 
+
 iframe {
 	margin: 10px;
 }
@@ -63,12 +68,7 @@ nav {
 	border-radius: 7px;
 
 }
-=======
-}
 
-=======
 .song {
   display: none;
 }
->>>>>>> e78f1ee... Updated files
->>>>>>> d1826f99ab67cdf2fa12d71fd792bd7520d12a2b
