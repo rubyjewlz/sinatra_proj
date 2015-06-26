@@ -1,0 +1,15 @@
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="styles/sin_proj.css">
+</head>
+<body>
+	<h2>Contact</h2>
+	
+	Hello, <%= @full_name %>
+<form method="POST", action="/Contact">
+   <input type="text" name="username" placeholder="Username">
+   <input type="password" name="password" placeholder="Password">
+   <input type="submit"> 
+</form>
+</body>
+</html>
