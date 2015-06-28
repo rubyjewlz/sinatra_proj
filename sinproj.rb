@@ -10,16 +10,14 @@ post '/contact' do
 end
 
 get '/' do 
-	 erb :sin_proj1
+	 erb :sin_proj1_damion
 end
 
 get '/about' do
 
-
   erb :sin_proj2
 
 end
-
 
 get '/gallery' do
 
@@ -31,9 +29,4 @@ get '/contact' do
 
 erb :sin_proj4
 
-end
-
-
-get '/damion_test' do
-  erb :sin_proj1_damion
 end
