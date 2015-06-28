@@ -3,26 +3,25 @@ body {
 	font-family: 'Comfortaa';
 	text-decoration: none;
 	margin: 0px auto;
-		}
+}
 
 h1 {
-  text-align: center;
   width: 100%;
   margin: 0px auto;
 }
 a.header{
-	margin-right: 40px;
-	text-transform: uppercase;
+	margin: 0 40px;
 	color: yellow;
 	text-decoration: none;
 	font-weight: bold;
+	padding:5px;
 }
 a.header:hover{
 	color:yellow;
 	border: solid yellow 2px;
 	border-radius: 5px;
-	margin-right: 38px;
-	padding: 5px;
+	margin: 0 38px;
+	
 
 }
 a:visited {
